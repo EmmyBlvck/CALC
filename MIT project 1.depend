@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1700507991 source:c:\users\user\documents\c++\mit project 1\main.cpp
+	<iostream>
+	"cgpa.h"
+
+1700598163 c:\users\user\documents\c++\mit project 1\cgpa.h
+
+1700735577 source:c:\users\user\desktop\mit project 1\main.cpp
+	<iostream>
+	"cgpa.h"
+
+1700735314 c:\users\user\desktop\mit project 1\cgpa.h
+
